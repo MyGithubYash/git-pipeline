@@ -9,3 +9,4 @@ result = number1 - number2
 
 # print result
 print(result)
+print("updated code")
